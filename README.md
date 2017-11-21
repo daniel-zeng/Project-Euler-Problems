@@ -1,3 +1,3 @@
 # Project Euler Problems
 
-My solutions to select Project Euler problems, written in Python 3.
+My solutions to select Project Euler problems, written in Python3.
